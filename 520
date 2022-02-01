@@ -1,0 +1,54 @@
+{
+    "id": "/subscriptions/5f86b989-b946-437e-a4d4-254136be046b/resourceGroups/EduBot520/providers/Microsoft.BotService/botServices/edubot520-bot",
+    "name": "edubot520-bot",
+    "type": "Microsoft.BotService/botServices",
+    "etag": "\"6400981b-0000-1800-0000-61f95b0a0000\"",
+    "location": "global",
+    "sku": {
+        "name": "F0"
+    },
+    "kind": "sdk",
+    "tags": {},
+    "properties": {
+        "displayName": "edubot520-bot",
+        "description": null,
+        "iconUrl": "https://docs.botframework.com/static/devportal/client/images/bot-framework-default.png",
+        "endpoint": "https://edubot520-bot-afed.azurewebsites.net/api/messages",
+        "msaAppId": "9a2d7ba1-ae9a-44d8-8038-714b081a6a76",
+        "msaAppTenantId": null,
+        "msaAppType": null,
+        "msaAppMSIResourceId": null,
+        "developerAppInsightKey": null,
+        "developerAppInsightsApplicationId": null,
+        "luisAppIds": [],
+        "endpointVersion": "3.0",
+        "configuredChannels": [
+            "webchat",
+            "facebook"
+        ],
+        "enabledChannels": [
+            "webchat",
+            "directline",
+            "facebook"
+        ],
+        "isDeveloperAppInsightsApiKeySet": false,
+        "isStreamingSupported": false,
+        "schemaTransformationVersion": "1.3",
+        "publishingCredentials": null,
+        "parameters": null,
+        "allSettings": null,
+        "manifestUrl": null,
+        "storageResourceId": null,
+        "tenantId": "e67cec68-ce56-46d3-9316-97d5c135d3b6",
+        "migrationToken": null,
+        "isCmekEnabled": false,
+        "cmekKeyVaultUrl": null,
+        "openWithHint": null,
+        "appPasswordHint": null,
+        "publicNetworkAccess": null,
+        "disableLocalAuth": false,
+        "cmekEncryptionStatus": "Off",
+        "provisioningState": "Succeeded"
+    },
+    "zones": []
+}
